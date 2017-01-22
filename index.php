@@ -68,8 +68,8 @@ if (isset($_POST['Submit'])) //here give the name of your button on which you wo
 <title>PHP Login Form</title>
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width">
-<link rel="stylesheet" href="css/bootstrap.css">
-<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="includes/css/bootstrap.css">
+<link rel="stylesheet" href="includes/css/main.css">
 </head>
 <!-- NAVBAR
 ================================================== -->

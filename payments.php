@@ -16,7 +16,7 @@ if ($_SESSION['userid'] == '') {
 
 <!-- start of the content wrapper -->
   <div class="content-wrapper">
-      <h1 style="text-align:left">Remittance page</h1>
+      <h1 style="text-align:left">Payments page</h1>
   </div>
 <!-- .content-wrapper -->
 <!-- This is the end of the main side bar navigation -->

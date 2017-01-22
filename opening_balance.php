@@ -16,7 +16,11 @@ if ($_SESSION['userid'] == '') {
 
 <!-- start of the content wrapper -->
   <div class="content-wrapper">
-      <h1 style="text-align:left">Remittance page</h1>
+    <h1 style="text-align:left">Opening balance.</h1>
+    <div>
+      <div >This the first step!</div>
+      <div >This the first step!</div>
+    </div>
   </div>
 <!-- .content-wrapper -->
 <!-- This is the end of the main side bar navigation -->

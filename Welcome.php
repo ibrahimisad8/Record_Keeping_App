@@ -15,11 +15,11 @@ if ($_SESSION['userid'] == '') {
 <?php include ('includes/side_bar_navigation.php'); ?>
 
 <!-- start of the content wrapper -->
-	<div class="content-wrapper">
-      <div class="welcome-content">
-        <h1>This is the welcome page</h1>
-      </div>
+  <div class="content-wrapper">
+      <h1 style="text-align:left">This is the Welcome page.</h1>
   </div>
 <!-- .content-wrapper -->
+<!-- This is the end of the main side bar navigation -->
+</main> <!-- .cd-main-content -->
 
 <?php include ('includes/footer.php'); ?>
