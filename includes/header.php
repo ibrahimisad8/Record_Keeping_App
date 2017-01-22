@@ -36,7 +36,7 @@
 				<li><a href="#0">Tour</a></li>
 				<li><a href="#0"></a></li>
 				-->
-				<li class="has-children account">
+				<li class="has-children account" style="font-size:15px">
 					<a href="#0">
 						<img src="image/cd-avatar.png" alt="avatar">
 						<?php
@@ -48,9 +48,9 @@
 					</a>
 
 					<ul>
-						<li><a href="#0">My Account</a></li>
-						<li><a href="#0">Something</a></li>
-						<li><a href="includes/Logout.php">Logout</a></li>
+						<li><a href="my_account.php" style="font-size:15px">My Account</a></li>
+						<li><a href="settings.php" style="font-size:15px">Settings</a></li>
+						<li><a href="includes/Logout.php" style="font-size:15px">Logout</a></li>
 					</ul>
 				</li>
 			</ul>
