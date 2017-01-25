@@ -22,8 +22,12 @@
 
       <ul>
         <li><a href="notifications.php" style="font-size:15px">All Notifications</a></li>
-        <li><a href="tellers.php" style="font-size:15px">Tellers</a></li>
-        <li><a href="chief_cashiers.php" style="font-size:15px">Chief Cashiers</a></li>
+        <li><a href="tellers.php" style="font-size:15px">Tellers
+          <span class="count" style="font-size:15px">1</span>
+        </a></li>
+        <li><a href="chief_cashiers.php" style="font-size:15px">Chief Cashiers
+          <span class="count" style="font-size:15px">2</span>
+        </a></li>
       </ul>
     </li>
 

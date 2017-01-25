@@ -4,12 +4,15 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="">
 
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
 
 	<link rel="stylesheet" href="css/reset.css">  <!--CSS reset -->
 	<link rel="stylesheet" href="css/style.css">  <!--Resource style -->
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
+	<link rel="stylesheet" href="includes/css/bootstrap.css">
+	<link rel="stylesheet" href="includes/css/main.css">
 
 	<title>AKIHA TECH SOLUTIONS | ACCOUNTING SOFTWARE</title>
 </head>
@@ -41,7 +44,7 @@
 						<img src="image/cd-avatar.png" alt="avatar">
 						<?php
 	            if($_SESSION['userid'])
-	              echo "WELCOME, ".$_SESSION['userid']."!</b>";
+	              echo "WELCOME, ".$_SESSION['userid']."!";
 	            else
 	              header('Location: ../index.php');
             ?>

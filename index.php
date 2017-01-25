@@ -77,7 +77,7 @@ if (isset($_POST['Submit'])) //here give the name of your button on which you wo
 <body>
 
 <div class="container"> <br>
-  <div> <center><img src="image/logo.png" alt="AKIHA_TECH Logo" /></center> </div>
+  <div> <center><img src="includes/image/logo.png" alt="AKIHA_TECH Logo" /></center> </div>
   <div class="row" style="margin-top:20px">
     <div class="col-xs-12 col-sm-8 col-md-6 col-sm-offset-2 col-md-offset-3">
       <form name="form_login" method="post" action="index.php" role="form">
