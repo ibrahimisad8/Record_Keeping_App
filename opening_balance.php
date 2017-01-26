@@ -88,10 +88,16 @@ if ($_SESSION['userid'] == '') {
       Previous Opening balances
       <hr class="colorgraph"> <br />
 
-      <h3>Please choose a date!</h3>
-      <!-- This is where you choose the date.-->
+      <!-- <h3>Please choose a date!</h3>
+      This is where you choose the date.-->
 
-      
+      <?php include ('includes/datepicker.html'); ?>
+
+        <!--
+        <script text="text/javascript" src="js/jquery.js"></script>
+      	<script text="text/javascript" src="js/jquery-ui.js"></script>
+        <script text="text/javascript" src="js/ui.js"></script>
+        -->
 
         <!-- This is the end of the datetimepicker.-->
     </div>

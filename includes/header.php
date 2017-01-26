@@ -13,6 +13,9 @@
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
 	<link rel="stylesheet" href="includes/css/bootstrap.css">
 	<link rel="stylesheet" href="includes/css/main.css">
+<!--	<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+	<link rel="stylesheet" href="/resources/demos/style.css">
+	<link rel="stylesheet" href="includes/js/jquery-ui-1.12.1/jquery-ui.min.css">-->
 
 	<title>AKIHA TECH SOLUTIONS | ACCOUNTING SOFTWARE</title>
 </head>
