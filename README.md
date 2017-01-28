@@ -74,3 +74,27 @@ and Tellers to Chief Cashiers and Chief Cashiers to Chief Cashiers
 All forms must have a report to summarize it and An overall report, printed by
 tellers to show what they have done for the day.
 ```
+
+* Regulatory/Compliance Requirements
+
+```
+The database must have a users table which will have the following columns:
+- ID => Primary Key, AutoIncrement
+- UserID => This column must be unique for the employees will identify themselves
+with them and login with the UserID. (Varchar 50max).
+- FirstName => Employees' First Name (Varchar 50max).
+- LastName => Employees' Last Name (Varchar 50max).
+- Password => with MD5 Encryption (Varchar 50max).
+- Position => this will be the levels such as Teller, Chief Cashier, Admin and SuperAdmin (Varchar 50max).
+```
+```
+The system will limit access to authorized users.
+```
+
+* Security Requirements
+
+```
+- Tellers should not be able to see the opening balance or enable other tellers to do certain tasks.
+- Chief Cashier should not be able to enable tellers to do certain tasks.
+- Admin should be able to do all tasks except to register new users to the system.
+```
