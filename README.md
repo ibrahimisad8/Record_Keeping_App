@@ -94,7 +94,7 @@ The system will limit access to authorized users.
 * Security Requirements
 
 ```
-- Tellers should not be able to see the opening balance or enable other tellers to do certain tasks.
+- Tellers should not be able to send opening balances or enable other tellers to do certain tasks.
 - Chief Cashier should not be able to enable tellers to do certain tasks.
 - Admin should be able to do all tasks except to register new users to the system.
 ```
