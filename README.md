@@ -18,6 +18,9 @@ AKIHA ACCOUNTING SOFTWARE.
 This is a record keeping app. It's meant to hold data after the employees finish the day.
 
 # Software Functional And Non-Functional Requirements
+
+## Functional Requirements
+
 * Interface Requirements
 ```
 There should be 4 different types of users.
@@ -98,3 +101,7 @@ The system will limit access to authorized users.
 - Chief Cashier should not be able to enable tellers to do certain tasks.
 - Admin should be able to do all tasks except to register new users to the system.
 ```
+
+## Non-Functional Requirements
+
+* 
