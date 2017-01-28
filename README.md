@@ -104,4 +104,4 @@ The system will limit access to authorized users.
 
 ## Non-Functional Requirements
 
-* 
+* The system must be hosted online for everybody to access. The domaine name is not yet chosen.
