@@ -19,4 +19,6 @@ This is a record keeping app. It's meant to hold data after the employees finish
 
 # Software Functional And Non-Functional Requirements
 * Interface Requirements
-** To only be able to login. The system starts with a login screen for already registered users to login.
+```
+To only be able to login. The system starts with a login screen for already registered users to login.
+```
