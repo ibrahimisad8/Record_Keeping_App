@@ -44,7 +44,7 @@
 				-->
 				<li class="has-children account" style="font-size:15px">
 					<a href="#0">
-						<img src="image/cd-avatar.png" alt="avatar">
+						<!--<img src="image/cd-avatar.png" alt="avatar">-->
 						<?php
 	            if($_SESSION['userid'])
 	              echo "WELCOME, ".$_SESSION['userid']."!";
