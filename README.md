@@ -20,5 +20,18 @@ This is a record keeping app. It's meant to hold data after the employees finish
 # Software Functional And Non-Functional Requirements
 * Interface Requirements
 ```
-To only be able to login. The system starts with a login screen for already registered users to login.
+There should be 4 different types of users.
+- SuperAdmins whose job is to oversee the operations of the employees on the system and has total power on the system.
+- Admins whose job is to enable certain employees to do certain tasks
+- Chief Cashier whose job is to allocate opening balance (in other words seed money) every morning to Tellers for them to work with for the day.
+- Tellers whose job is to send remittance (money) to people or pay people in case they received money from their families or friends.
+```
+```
+Users should be registered by the SuperAdmins in the admin panels
+```
+```
+The system starts with a login screen for already registered users to login.
+```
+```
+
 ```
