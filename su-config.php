@@ -20,7 +20,7 @@ ob_start();
  * script's ending.
  * 
  * In this case it will not display warnings & error reporting exect for real 
- * sytax error 
+ * sytax error .. 
  */
 ini_set('display_errors', 1);
 

@@ -3,7 +3,7 @@
  * Settings file : This page defines the major / global files & folders
  * 
  * This file is important to all pages changes can be made to constants if  the 
- * need arises
+ * need arises .. 
  *
  * @author Ibrahim Isa & Abokor Djama
  * @version 1.0
