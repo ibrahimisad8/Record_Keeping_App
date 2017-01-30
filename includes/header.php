@@ -8,8 +8,8 @@
 
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
 
-	<link rel="stylesheet" href="css/reset.css">  <!--CSS reset -->
-	<link rel="stylesheet" href="css/style.css">  <!--Resource style -->
+	<link rel="stylesheet" href="includes/css/reset.css">  <!--CSS reset -->
+	<link rel="stylesheet" href="includes/css/style.css">  <!--includes/Resource style -->
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
 	<link rel="stylesheet" href="includes/css/bootstrap.css">
 	<link rel="stylesheet" href="includes/css/main.css">
